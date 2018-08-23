@@ -1,0 +1,22 @@
+<!--index.wxml-->
+<view class='tc wm'><image src="https://out.img.pan.iswtf.com/Fhr-IcY5QVB5fcvD5rzMDDbKwj6i" mode='aspectFit' class='tcimg'></image></view>
+<view class='tc wm tccred'> 安企网 </view>
+<view class='tc wm tc1 p12'> 安企专注为客户企业公司商铺店面提供专业高效率高质量互联网业务开展和解决方案提供服务。 </view>
+
+<view class='tc wm tccre2'> 我们专注于 </view>
+<view class='tc wm'><image src="https://out.img.pan.iswtf.com/bbe4be6d629d5468c85459e203ef8923" mode='aspectFit' class='tcimg2'></image></view>
+<view class='tc wm tss33'> 1.企业官网开发和内容维护。 </view>
+<view class='tc wm t18'><image src="https://out.img.pan.iswtf.com/8c73f09c8129515904d4a3d52bab86b8" mode='aspectFit' class='tcimg2'></image></view>
+<view class='tc wm tss33'> 2.微信公众号开发、小程序。 </view>
+<view class='tc wm t18'><image src="https://out.img.pan.iswtf.com/d567a000925b9c528d7d72bca00be8e3" mode='aspectFit' class='tcimg2'></image></view>
+<view class='tc wm tss33'> 3.互联网电子商务系统开发。 </view>
+<view class='tc wm t18'><image src="https://out.img.pan.iswtf.com/50a4c204ff3867da629b784005f52066" mode='aspectFit' class='tcimg2'></image></view>
+<view class='tc wm tss33'> 4.服务器日常托管安全维护。 </view>
+<view class='tc wm t18'><image src="https://out.img.pan.iswtf.com/acbf52b854efd6c741c7720fb9b2b89d" mode='aspectFit' class='tcimg2'></image></view>
+<view class='tc wm tss33 p12'> 5.线上投票、推广等等活动。 </view>
+
+<view class='tc wm tccre2'> 联系我们 </view>
+<view class='tc wm tss33 c4'> 微信：<text style='color:green'>iswtf_</text> </view>
+<view class='tc wm tss33 c4'> 电话：136 0787 5450 </view>
+
+<view class='tc wm tss33 c4 p13'> 地址：南宁竹溪大道36号青湖中心27层2702 </view>
